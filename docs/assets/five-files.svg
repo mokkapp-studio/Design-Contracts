@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-label="Los 5 archivos de un componente">
+<title>Los 5 archivos de un componente</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="470" rx="24" fill="#faf9f5"/>
+<text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" letter-spacing="1.5">QUÉ NECESITA UN COMPONENTE PARA EXISTIR</text>
+<text x="48" y="96" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#141413" text-anchor="start" >1 decisión + 1 explicación + 1 construcción + 1 prueba</text>
+<rect x="48" y="140" width="220" height="250" rx="18" fill="#141413" stroke="#141413" stroke-width="1.5"/>
+<text x="68" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#b0aea5" text-anchor="start" >01</text>
+<text x="68" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#faf9f5" text-anchor="start" >Contrato</text>
+<text x="68" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#faf9f5" text-anchor="start" >obliga</text>
+<line x1="68" y1="290" x2="248" y2="290" stroke="#3d3d3a"/>
+<text x="68" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#faf9f5" text-anchor="start" >Button.json</text>
+<text x="68" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="start" >registry/json/</text>
+<text x="68" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="start" >a mano</text>
+<rect x="288" y="140" width="220" height="250" rx="18" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="308" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#5e5d59" text-anchor="start" >02</text>
+<text x="308" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#141413" text-anchor="start" >Spec</text>
+<text x="308" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#141413" text-anchor="start" >explica</text>
+<line x1="308" y1="290" x2="488" y2="290" stroke="#e3dacc"/>
+<text x="308" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >Button.md</text>
+<text x="308" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >registry/md/</text>
+<text x="308" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >se genera</text>
+<rect x="528" y="140" width="220" height="250" rx="18" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="548" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#5e5d59" text-anchor="start" >03</text>
+<text x="548" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#141413" text-anchor="start" >Componente</text>
+<text x="548" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#141413" text-anchor="start" >construye</text>
+<line x1="548" y1="290" x2="728" y2="290" stroke="#e3dacc"/>
+<text x="548" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >button.tsx</text>
+<text x="548" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >components/button/</text>
+<text x="548" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >a mano</text>
+<rect x="768" y="140" width="220" height="250" rx="18" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="788" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#5e5d59" text-anchor="start" >04</text>
+<text x="788" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#141413" text-anchor="start" >Estilos</text>
+<text x="788" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#141413" text-anchor="start" >solo tokens</text>
+<line x1="788" y1="290" x2="968" y2="290" stroke="#e3dacc"/>
+<text x="788" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >button.css</text>
+<text x="788" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >components/button/</text>
+<text x="788" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >a mano</text>
+<rect x="1008" y="140" width="220" height="250" rx="18" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="1028" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#5e5d59" text-anchor="start" >05</text>
+<text x="1028" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="400" fill="#141413" text-anchor="start" >Test</text>
+<text x="1028" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#141413" text-anchor="start" >verifica</text>
+<line x1="1028" y1="290" x2="1208" y2="290" stroke="#e3dacc"/>
+<text x="1028" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >button.spec.ts</text>
+<text x="1028" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >components/button/</text>
+<text x="1028" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >a mano</text>
+<text x="48" y="436" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e5d59" text-anchor="start" >Si falta uno, npm run check falla y la pull request no se puede fusionar.</text>
+</svg>

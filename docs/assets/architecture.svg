@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="Arquitectura: diseño, código y contenido entran; los agentes trabajan; el contrato decide">
+<title>Arquitectura: diseño, código y contenido entran; los agentes trabajan; el contrato decide</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="560" rx="24" fill="#faf9f5"/>
+<text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" letter-spacing="1.5">EL DESIGN SYSTEM EN 2026</text>
+<text x="48" y="96" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#141413" text-anchor="start" >En el centro, el contrato decide</text>
+<rect x="48" y="116" width="220" height="68" rx="14" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="68" y="144" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#141413" text-anchor="start" >Diseño</text>
+<text x="68" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" >Figma · variables · Specs</text>
+<path d="M268 150 H372" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="48" y="216" width="220" height="68" rx="14" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="68" y="244" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#141413" text-anchor="start" >Código</text>
+<text x="68" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" >components/ · app/</text>
+<path d="M268 250 H372" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="48" y="316" width="220" height="68" rx="14" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="68" y="344" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#141413" text-anchor="start" >Contenido</text>
+<text x="68" y="368" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" >content/voice.md</text>
+<path d="M268 350 H372" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="380" y="118" width="400" height="300" rx="20" fill="#141413" stroke="#141413" stroke-width="1.5"/>
+<text x="406" y="154" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#faf9f5" text-anchor="start" >Contratos</text>
+<text x="406" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="start" >registry/json · registry/md</text>
+<rect x="406" y="192" width="348" height="140" rx="14" fill="#262624" stroke="#3d3d3a" stroke-width="1.5"/>
+<text x="426" y="222" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#faf9f5" text-anchor="start" >Componentes</text>
+<text x="426" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="400" fill="#b0aea5" text-anchor="start" >Button · Card · Input · Checkbox · Badge · Alert</text>
+<rect x="426" y="256" width="308" height="62" rx="12" fill="#333331" stroke="#5e5d59" stroke-width="1.5"/>
+<text x="446" y="282" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf9f5" text-anchor="start" >Tokens</text>
+<text x="446" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="start" >primitive → semantic</text>
+<circle cx="606" cy="287" r="6" fill="none" stroke="#b0aea5" stroke-width="1.5"/>
+<circle cx="626" cy="287" r="6" fill="none" stroke="#b0aea5" stroke-width="1.5"/>
+<circle cx="646" cy="287" r="6" fill="none" stroke="#b0aea5" stroke-width="1.5"/>
+<circle cx="666" cy="287" r="6" fill="none" stroke="#b0aea5" stroke-width="1.5"/>
+<circle cx="686" cy="287" r="6" fill="none" stroke="#b0aea5" stroke-width="1.5"/>
+<circle cx="706" cy="287" r="6" fill="none" stroke="#b0aea5" stroke-width="1.5"/>
+<text x="406" y="366" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#9fd3b5" text-anchor="start" >✓ validate.ts   ✓ tests   ✓ CI</text>
+<text x="406" y="394" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="start" >spec explica · contrato obliga · test verifica</text>
+<path d="M780 200 H860" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<path d="M780 330 H860" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="860" y="180" width="96" height="40" rx="20" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+<text x="908" y="205" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#141413" text-anchor="middle" >MCP</text>
+<rect x="860" y="310" width="96" height="40" rx="20" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+<text x="908" y="335" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#141413" text-anchor="middle" >CLI</text>
+<path d="M956 200 C 990 200, 1000 150, 1036 150" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="1040" y="120" width="192" height="60" rx="14" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="1060" y="146" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#141413" text-anchor="start" >Claude Code</text>
+<text x="1060" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >lee AGENTS.md</text>
+<path d="M956 200 C 990 200, 1000 250, 1036 250" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="1040" y="220" width="192" height="60" rx="14" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="1060" y="246" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#141413" text-anchor="start" >Cursor</text>
+<text x="1060" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >lee AGENTS.md</text>
+<path d="M956 330 C 990 330, 1000 350, 1036 350" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="1040" y="320" width="192" height="60" rx="14" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="1060" y="346" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#141413" text-anchor="start" >Codex</text>
+<text x="1060" y="366" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >lee AGENTS.md</text>
+<path d="M158 384 V488 H372" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="380" y="456" width="200" height="64" rx="14" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="400" y="482" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#141413" text-anchor="start" >Pull request</text>
+<text x="400" y="504" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >plantilla + checklist</text>
+<path d="M580 488 H620" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="620" y="456" width="200" height="64" rx="14" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="640" y="482" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#141413" text-anchor="start" >Tests</text>
+<text x="640" y="504" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >npm run check</text>
+<path d="M820 488 H860" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="860" y="456" width="200" height="64" rx="14" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="880" y="482" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#141413" text-anchor="start" >Producto</text>
+<text x="880" y="504" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="start" >Next.js · /sistema</text>
+<path d="M1060 488 H1136 V384" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "name": "NombreComponente",
+  "version": "0.1.0",
+  "status": "draft",
+  "owner": "Xavier Pascual · Mokkapp.com",
+  "description": "Una frase: qué hace este componente por la persona usuaria.",
+  "files": {
+    "component": "components/nombre/nombre.tsx",
+    "styles": "components/nombre/nombre.css",
+    "test": "components/nombre/nombre.spec.ts"
+  },
+  "anchors": {
+    "figma": "https://www.figma.com/design/…?node-id=…"
+  },
+  "anatomy": ["contenedor", "texto"],
+  "props": {
+    "variant": { "type": "enum", "values": ["default"], "default": "default", "description": "Valores de la propiedad de variante en Figma" },
+    "children": { "type": "string", "required": true, "description": "Texto del componente" }
+  },
+  "states": ["default"],
+  "tokens": {
+    "default.background": "color.surface.raised",
+    "default.text": "color.text.primary",
+    "radius": "size.radius.control"
+  },
+  "a11y": {
+    "element": "div"
+  },
+  "rules": {
+    "always": ["Usar solo los tokens declarados en este contrato"],
+    "never": ["Sombras (box-shadow)", "Valores hex o px escritos a mano"]
+  },
+  "decisions": [],
+  "openQuestions": []
+}

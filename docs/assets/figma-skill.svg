@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="530" viewBox="0 0 1280 530" role="img" aria-label="Skill figma-contract: Figma y repositorio en dos direcciones">
+<title>Skill figma-contract: Figma y repositorio en dos direcciones</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="530" rx="24" fill="#faf9f5"/>
+<text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" letter-spacing="1.5">SKILL FIGMA-CONTRACT</text>
+<text x="48" y="96" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#141413" text-anchor="start" >Figma y el repositorio, en las dos direcciones</text>
+<rect x="48" y="140" width="330" height="280" rx="20" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="72" y="180" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#141413" text-anchor="start" >Figma</text>
+<text x="72" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" letter-spacing="1.5">DISEÑO · VARIABLES · SPEC</text>
+<rect x="72" y="226" width="282" height="44" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="88" y="254" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="start" >Component set + variantes</text>
+<rect x="72" y="284" width="282" height="44" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="88" y="312" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="start" >Variables color/…/…</text>
+<rect x="72" y="342" width="282" height="44" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="88" y="370" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="start" >Spec en Markdown junto al diseño</text>
+<rect x="902" y="140" width="330" height="280" rx="20" fill="#141413" stroke="#141413" stroke-width="1.5"/>
+<text x="926" y="180" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#faf9f5" text-anchor="start" >Repositorio</text>
+<text x="926" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#b0aea5" text-anchor="start" letter-spacing="1.5">FUENTE DE VERDAD</text>
+<rect x="926" y="226" width="282" height="44" rx="12" fill="#262624" stroke="#3d3d3a" stroke-width="1.2"/>
+<text x="942" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#faf9f5" text-anchor="start" >registry/json/&lt;C&gt;.json</text>
+<rect x="926" y="284" width="282" height="44" rx="12" fill="#262624" stroke="#3d3d3a" stroke-width="1.2"/>
+<text x="942" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#faf9f5" text-anchor="start" >registry/md/&lt;C&gt;.md</text>
+<rect x="926" y="342" width="282" height="44" rx="12" fill="#262624" stroke="#3d3d3a" stroke-width="1.2"/>
+<text x="942" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#faf9f5" text-anchor="start" >components/&lt;c&gt;/</text>
+<path d="M378 220 H902" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="470" y="180" width="340" height="64" rx="32" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+<text x="640" y="208" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#141413" text-anchor="middle" >1 · Figma → repositorio</text>
+<text x="640" y="229" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="middle" >lee, reconoce tokens, contrato + código</text>
+<path d="M902 350 H378" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="470" y="310" width="340" height="64" rx="32" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+<text x="640" y="338" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#141413" text-anchor="middle" >2 · Repositorio → Figma</text>
+<text x="640" y="359" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="middle" >componente con variables + Spec</text>
+<text x="640" y="460" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#141413" text-anchor="middle" >color/action/primary/bg  ⇄  color.action.primary.bg</text>
+<text x="640" y="488" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e5d59" text-anchor="middle" >Lo que no se reconoce va a openQuestions. Nunca se inventa.</text>
+</svg>

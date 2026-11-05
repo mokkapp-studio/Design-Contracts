@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="Estructura: AGENTS.md, tokens, registry y components">
+<title>Estructura: AGENTS.md, tokens, registry y components</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="560" rx="24" fill="#faf9f5"/>
+<text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" letter-spacing="1.5">TRES CAPAS Y UN MAPA</text>
+<text x="48" y="96" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#141413" text-anchor="start" >El repositorio, de un vistazo</text>
+<rect x="490" y="124" width="300" height="64" rx="32" fill="#141413" stroke="#141413" stroke-width="1.5"/>
+<text x="640" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#faf9f5" text-anchor="middle" >AGENTS.md</text>
+<text x="640" y="174" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="middle" >el mapa para cualquier agente</text>
+<path d="M640 188 V220 H248 V244" fill="none" stroke="#5e5d59" stroke-width="1.5"/>
+<path d="M640 220 H1032 V244" fill="none" stroke="#5e5d59" stroke-width="1.5"/>
+<path d="M640 188 V244" fill="none" stroke="#5e5d59" stroke-width="1.5"/>
+<rect x="68" y="244" width="360" height="72" rx="16" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="248" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#141413" text-anchor="middle" >tokens/</text>
+<text x="248" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="middle" letter-spacing="1.5">LOS VALORES</text>
+<path d="M78 316 V364 H98" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="98" y="340" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="116" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >primitive/</text>
+<text x="412" y="370" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >qué existe</text>
+<path d="M78 316 V426 H98" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="98" y="402" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="116" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >semantic/</text>
+<text x="412" y="432" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >para qué sirve</text>
+<rect x="460" y="244" width="360" height="72" rx="16" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="640" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#141413" text-anchor="middle" >registry/</text>
+<text x="640" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="middle" letter-spacing="1.5">EL CONTRATO</text>
+<path d="M470 316 V364 H490" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="490" y="340" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="508" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >json/</text>
+<text x="804" y="370" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >obliga · máquinas</text>
+<path d="M470 316 V426 H490" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="490" y="402" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="508" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >md/</text>
+<text x="804" y="432" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >explica · personas</text>
+<path d="M470 316 V488 H490" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="490" y="464" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="508" y="494" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >validate.ts</text>
+<text x="804" y="494" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >comprueba</text>
+<rect x="852" y="244" width="360" height="72" rx="16" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="1032" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" fill="#141413" text-anchor="middle" >components/</text>
+<text x="1032" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="middle" letter-spacing="1.5">EL CÓDIGO</text>
+<path d="M862 316 V364 H882" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="882" y="340" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="900" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >&lt;c&gt;.tsx</text>
+<text x="1196" y="370" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >construye</text>
+<path d="M862 316 V426 H882" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="882" y="402" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="900" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >&lt;c&gt;.css</text>
+<text x="1196" y="432" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >solo tokens</text>
+<path d="M862 316 V488 H882" fill="none" stroke="#87867f" stroke-width="1.5"/>
+<rect x="882" y="464" width="330" height="48" rx="12" fill="#faf9f5" stroke="#87867f" stroke-width="1.2"/>
+<text x="900" y="494" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#141413" text-anchor="start" >&lt;c&gt;.spec.ts</text>
+<text x="1196" y="494" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="end" >verifica</text>
+</svg>

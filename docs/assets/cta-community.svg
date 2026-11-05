@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Únete a la comunidad Mokkapp en Skool">
+<title>Únete a la comunidad Mokkapp en Skool</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="300" rx="24" fill="#d97757"/>
+<text x="56" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#141413" text-anchor="start" letter-spacing="1.5">COMUNIDAD · CADA SEMANA</text>
+<text x="52" y="136" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="400" fill="#141413" text-anchor="start" >Únete a Mokkapp</text>
+<text x="56" y="180" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#141413" text-anchor="start" >Cursos, recursos compartidos y formación práctica para diseñar con IA:</text>
+<text x="56" y="206" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#141413" text-anchor="start" >sistemas de diseño AI-ready, contratos y flujos agénticos.</text>
+<rect x="56" y="232" width="87" height="36" rx="18" fill="none" stroke="#141413" stroke-width="1.5"/>
+<text x="99.5" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="middle" >Cursos</text>
+<rect x="155" y="232" width="208" height="36" rx="18" fill="none" stroke="#141413" stroke-width="1.5"/>
+<text x="259.0" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="middle" >Recursos compartidos</text>
+<rect x="375" y="232" width="173" height="36" rx="18" fill="none" stroke="#141413" stroke-width="1.5"/>
+<text x="461.5" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="middle" >Flujos agénticos</text>
+<rect x="560" y="232" width="182" height="36" rx="18" fill="none" stroke="#141413" stroke-width="1.5"/>
+<text x="651.0" y="256" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#141413" text-anchor="middle" >Prototipos con IA</text>
+<rect x="868" y="92" width="356" height="96" rx="48" fill="#141413"/>
+<text x="1046" y="150" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#faf9f5" text-anchor="middle" >Entrar en Skool  →</text>
+<text x="1046" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#141413" text-anchor="middle" >skool.com/mokkapp-1438</text>
+</svg>

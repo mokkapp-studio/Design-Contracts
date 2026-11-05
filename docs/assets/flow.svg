@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-label="Flujo: intención, contrato, generación, agente, verificación y producto">
+<title>Flujo: intención, contrato, generación, agente, verificación y producto</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="470" rx="24" fill="#faf9f5"/>
+<text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#5e5d59" text-anchor="start" letter-spacing="1.5">EL FLUJO COMPLETO</text>
+<text x="48" y="96" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#141413" text-anchor="start" >Si falla, se corrige el contrato, no el resultado</text>
+<rect x="40" y="190" width="180" height="80" rx="16" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="130" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#141413" text-anchor="middle" >Intención</text>
+<text x="130" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="middle" >persona</text>
+<path d="M220 230 H258" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="260" y="190" width="180" height="80" rx="16" fill="#141413" stroke="#141413" stroke-width="1.5"/>
+<text x="350" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#faf9f5" text-anchor="middle" >Contrato</text>
+<text x="350" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#b0aea5" text-anchor="middle" >registry/json</text>
+<path d="M440 230 H478" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="480" y="190" width="180" height="80" rx="16" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="570" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#141413" text-anchor="middle" >Generación</text>
+<text x="570" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="middle" >npm run generate</text>
+<path d="M660 230 H698" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<rect x="700" y="190" width="180" height="80" rx="16" fill="#f0eee6" stroke="#e3dacc" stroke-width="1.5"/>
+<text x="790" y="226" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#141413" text-anchor="middle" >Agente</text>
+<text x="790" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="middle" >IA + MCP</text>
+<path d="M880 230 H918" fill="none" stroke="#5e5d59" stroke-width="1.5" marker-end="url(#a)"/>
+<polygon points="928,230 1020,168 1112,230 1020,292" fill="#faf9f5" stroke="#141413" stroke-width="1.5"/>
+<text x="1020" y="228" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#141413" text-anchor="middle" >¿Cumple?</text>
+<text x="1020" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#5e5d59" text-anchor="middle" >tests + CI</text>
+<path d="M1020 292 V380" fill="none" stroke="#2f6b4f" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="1032" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#2f6b4f" text-anchor="start" >sí</text>
+<rect x="910" y="382" width="220" height="70" rx="16" fill="#2f6b4f" stroke="#2f6b4f" stroke-width="1.5"/>
+<text x="1020" y="414" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#faf9f5" text-anchor="middle" >Producto</text>
+<text x="1020" y="436" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" font-weight="400" fill="#d9eadf" text-anchor="middle" >pull request y merge</text>
+<path d="M1020 168 V126 H350 V188" fill="none" stroke="#a3402a" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="680" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="700" fill="#a3402a" text-anchor="middle" >no cumple → se corrige el contrato</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="490" viewBox="0 0 1280 490" role="img" aria-label="Errores que detecta el validador">
+<title>Errores que detecta el validador</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="490" rx="24" fill="#141413"/>
+<text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#b0aea5" text-anchor="start" letter-spacing="1.5">NPM RUN CHECK</text>
+<text x="48" y="96" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#faf9f5" text-anchor="start" >El validador bloquea lo que no cumple</text>
+<rect x="48" y="124" width="1184" height="330" rx="16" fill="#1e1e1c" stroke="#3d3d3a" stroke-width="1.5"/>
+<text x="80" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#e9a08e" text-anchor="start" >✗</text>
+<text x="112" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#faf9f5" text-anchor="start" >card.css:47  color hex escrito a mano</text>
+<text x="80" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#e9a08e" text-anchor="start" >✗</text>
+<text x="112" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#faf9f5" text-anchor="start" >card.css:47  box-shadow está prohibido por la marca</text>
+<text x="80" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#e9a08e" text-anchor="start" >✗</text>
+<text x="112" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#faf9f5" text-anchor="start" >card.css  usa un token que NO está en su contrato</text>
+<text x="80" y="288" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#e9a08e" text-anchor="start" >✗</text>
+<text x="112" y="288" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#faf9f5" text-anchor="start" >card.css  define la variante &quot;featured&quot;, que no está en el contrato</text>
+<text x="80" y="328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#e9a08e" text-anchor="start" >✗</text>
+<text x="112" y="328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#faf9f5" text-anchor="start" >components/badge  componente sin contrato</text>
+<text x="80" y="368" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#e9a08e" text-anchor="start" >✗</text>
+<text x="112" y="368" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#faf9f5" text-anchor="start" >app/tokens.css  no está al día: ejecuta npm run generate</text>
+<text x="80" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" fill="#9fd3b5" text-anchor="start" >✓</text>
+<text x="112" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="400" fill="#9fd3b5" text-anchor="start" >El código cumple los contratos · 46 tests</text>
+</svg>

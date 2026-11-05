@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="Mokkapp · Design Contracts">
+<title>Mokkapp · Design Contracts</title>
+<defs>
+<marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5e5d59"/></marker>
+<marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0aea5"/></marker>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#a3402a"/></marker>
+</defs>
+<rect width="1280" height="480" rx="24" fill="#141413"/>
+<text x="64" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#b0aea5" text-anchor="start" letter-spacing="1.5">DEL PROMPT A LA ESPECIFICACIÓN</text>
+<text x="60" y="196" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="104" font-weight="400" fill="#faf9f5" text-anchor="start" >Mokkapp</text>
+<text x="64" y="262" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="400" fill="#b0aea5" text-anchor="start" >Design Contracts</text>
+<text x="64" y="318" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#faf9f5" text-anchor="start" >Un sistema de diseño gobernado por contratos,</text>
+<text x="64" y="346" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#faf9f5" text-anchor="start" >para personas y agentes de IA.</text>
+<rect x="64" y="380" width="306" height="44" rx="22" fill="#faf9f5"/>
+<text x="217" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#141413" text-anchor="middle" >skool.com/mokkapp  →</text>
+<rect x="760" y="64" width="456" height="300" rx="16" fill="#1e1e1c" stroke="#3d3d3a" stroke-width="1.5"/>
+<circle cx="784" cy="88" r="5" fill="#5e5d59"/>
+<circle cx="800" cy="88" r="5" fill="#87867f"/>
+<circle cx="816" cy="88" r="5" fill="#b0aea5"/>
+<text x="840" y="93" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="400" fill="#b0aea5" text-anchor="start" >registry/json/Button.json</text>
+<line x1="760" y1="110" x2="1216" y2="110" stroke="#3d3d3a"/>
+<text x="788" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#e3dacc" text-anchor="start" xml:space="preserve">{</text>
+<text x="788" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#faf9f5" text-anchor="start" xml:space="preserve">  &quot;name&quot;: &quot;Button&quot;,</text>
+<text x="788" y="206" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#faf9f5" text-anchor="start" xml:space="preserve">  &quot;variant&quot;: [&quot;primary&quot;, &quot;secondary&quot;],</text>
+<text x="788" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#faf9f5" text-anchor="start" xml:space="preserve">  &quot;background&quot;: &quot;color.action.primary.bg&quot;,</text>
+<text x="788" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#faf9f5" text-anchor="start" xml:space="preserve">  &quot;never&quot;: [&quot;box-shadow&quot;, &quot;hex&quot;, &quot;px&quot;]</text>
+<text x="788" y="296" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="400" fill="#e3dacc" text-anchor="start" xml:space="preserve">}</text>
+<text x="788" y="346" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="400" fill="#87867f" text-anchor="start" letter-spacing="1.5">LA SPEC EXPLICA · EL CONTRATO OBLIGA</text>
+<path d="M828 364 V392" fill="none" stroke="#87867f" stroke-width="1.5" marker-end="url(#aw)"/>
+<rect x="760" y="396" width="136" height="40" rx="20" fill="none" stroke="#87867f" stroke-width="1.2"/>
+<text x="828" y="421" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf9f5" text-anchor="middle" >Figma</text>
+<path d="M988 364 V392" fill="none" stroke="#87867f" stroke-width="1.5" marker-end="url(#aw)"/>
+<rect x="920" y="396" width="136" height="40" rx="20" fill="none" stroke="#87867f" stroke-width="1.2"/>
+<text x="988" y="421" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf9f5" text-anchor="middle" >Código</text>
+<path d="M1148 364 V392" fill="none" stroke="#87867f" stroke-width="1.5" marker-end="url(#aw)"/>
+<rect x="1080" y="396" width="136" height="40" rx="20" fill="none" stroke="#87867f" stroke-width="1.2"/>
+<text x="1148" y="421" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#faf9f5" text-anchor="middle" >Agentes IA</text>
+</svg>
